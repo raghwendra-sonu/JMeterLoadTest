@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1570786528205,2486,Rest _Request,200,OK,Number of Users 1-1,text,true,,1389,604,1,1,"https://samples.openweathermap.org/data/2.5/weather?q=London,uk&appid=b6907d289e10d714a6e88b30761fae22",401,0,216
+1570786528205,402,Rest _Request-0,301,Moved Permanently,Number of Users 1-1,text,true,,472,302,1,1,"http://samples.openweathermap.org/data/2.5/weather?q=London,uk&appid=b6907d289e10d714a6e88b30761fae22",401,0,216
+1570786528613,2078,Rest _Request-1,200,OK,Number of Users 1-1,text,true,,917,302,1,1,"https://samples.openweathermap.org/data/2.5/weather?q=London,uk&appid=b6907d289e10d714a6e88b30761fae22",2076,0,1895
+1570786530719,1370,Rest _Request,200,OK,Number of Users 1-1,text,true,,1389,604,1,1,"https://samples.openweathermap.org/data/2.5/weather?q=London,uk&appid=b6907d289e10d714a6e88b30761fae22",335,0,167
+1570786530719,335,Rest _Request-0,301,Moved Permanently,Number of Users 1-1,text,true,,472,302,1,1,"http://samples.openweathermap.org/data/2.5/weather?q=London,uk&appid=b6907d289e10d714a6e88b30761fae22",335,0,167
+1570786531055,1034,Rest _Request-1,200,OK,Number of Users 1-1,text,true,,917,302,1,1,"https://samples.openweathermap.org/data/2.5/weather?q=London,uk&appid=b6907d289e10d714a6e88b30761fae22",1034,0,812
